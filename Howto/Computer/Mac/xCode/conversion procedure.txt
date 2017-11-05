@@ -1,0 +1,32 @@
+@ref 	https://blog.metova.com/a-guide-to-migrating-to-swift-3
+
+@section 	Procedure start the Migrator
+
+	If you’ve already updated to Swift 2.3 you will need to go to Edit > Convert >
+	To Current Swift Syntax
+
+		Establish project-level .git if not present
+		Open in xCode 8.3.3 (tgt: iPhone 7+ Sim)
+		Allow Keychain Access (all)
+		A->'Convert'->'Next'->'Save'
+		B->Double-Click->'Perform Changes'
+		Product->Clean
+		Product->Build
+		Explicit Errors -> '!'
+		Run (Sim)
+		Close
+		Zip & replace!
+	
+	
+	From there select Convert to Swift 3, select your schemes, and complete the
+	steps in the assistant migrator..
+
+
+@section 	Notes 
+
+	It’s preferable to be restrictive where applicable when using
+	these methods, if your class conforms to public and doesn’t need to be
+	subclassed or overridden outside of the module then I would stick to public,
+	otherwise use open where necessary
+
+
