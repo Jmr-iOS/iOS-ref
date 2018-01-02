@@ -1,8 +1,8 @@
 /************************************************************************************************************************************/
-/** @file		x
+/** @file       x
  *  @project    x
- * 	@brief		x
- * 	@details	x
+ *  @brief      x
+ *  @details    x
  *
  * 	@author		Justin Reina, Firmware Engineer, Jaostech
  * 	@created	x
@@ -22,47 +22,47 @@
 
 
 /********************************************************************************************************************************/
-/**	@fcn		getTimeElapsed() -> TimerCellValue                                                                              */
+/**	@fcn        getTimeElapsed() -> TimerCellValue                                                                              */
 /*  @brief      return the elapsed time for the log AND active timer                                                            */
 /********************************************************************************************************************************/
 
 
-/************************************************************************************************************************************/
-/**	@fcn		int main(void)
- *  @brief		x
- *  @details	x
+/********************************************************************************************************************************/
+/** @fcn        int main(void)
+ *  @brief      x
+ *  @details    x
  *
- *  @section	Purpose
- *  	x
+ *  @section    Purpose
+ *      x
  *
- *  @param		[in]	name	descrip
+ *  @param      [in]    name    descrip
  *
- *  @param		[out]	name	descrip
+ *  @param      [out]   name    descrip
  *
- *  @return		(type) descrip
+ *  @return     (type) descrip
  *
- *  @pre		x
+ *  @pre        x
  *
- *  @post		x
+ *  @post       x
  *
- *  @section	Operation
- *		x
- *		
- *  @section	Opens
- *  	x
+ *  @section    Operation
+ *      x
  *
- *  @section	Hazards & Risks
- *  	x
+ *  @section    Opens
+ *      x
  *
- *	@section	Todo
- *		x
+ *  @section    Hazards & Risks
+ *      x
  *
- *  @section	Timing
- *  	x
+ *  @section    Todo
+ *      x
  *
- *  @note		x
+ *  @section    Timing
+ *      x
+ *
+ *  @note       x
  */
-/************************************************************************************************************************************/
+/********************************************************************************************************************************/
 
 
 //------------------------------------------------------------A Delimiting Note-----------------------------------------------------//
