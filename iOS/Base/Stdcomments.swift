@@ -4,9 +4,9 @@
  *  @brief      x
  *  @details    x
  *
- * 	@author		Justin Reina, Firmware Engineer, Jaostech
- * 	@created	x
- * 	@last rev	x
+ *  @author     Justin Reina, Firmware Engineer, Jaostech
+ *  @created    x
+ *  @last rev   x
  *
  *
  * 	@notes		x
